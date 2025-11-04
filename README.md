@@ -1,3 +1,5 @@
+https://i.imgur.com/PjzwfV2.jpeg
+
 # 👋 Hi there, I'm Riffa Yudika!
 
 💻 I'm a passionate developer who loves exploring programming, databases, and system operations.  
