@@ -1,4 +1,4 @@
-https://i.imgur.com/PjzwfV2.jpeg
+![Banner]https://i.imgur.com/PjzwfV2.jpeg
 
 # 👋 Hi there, I'm Riffa Yudika!
 
